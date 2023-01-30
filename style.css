@@ -5,7 +5,6 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    width: 100vw;
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(-45deg, #ee5286, #ca37dd, #7142ca, #23d5ab);
 	background-size: 400% 400%;
