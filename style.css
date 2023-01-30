@@ -74,7 +74,7 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-bottom: 50px;;
+    padding-bottom: 30px;;
 }
 
 .title{
@@ -82,6 +82,10 @@ header {
     text-align: center;
 }
 
+p.copyright{
+    font-size: 10px;
+    color: gray;
+}
 
 
 a {
