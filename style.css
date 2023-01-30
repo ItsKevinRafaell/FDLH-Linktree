@@ -7,7 +7,7 @@ body {
     flex-direction: column;
     width: 100vw;
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(-45deg, #110f0f, #615e2a, #090a03, #615e2a);
+    background: linear-gradient(-45deg, #110f0f, #57541d, #090a03, #57541d);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 	height: 100vh;
